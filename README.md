@@ -162,7 +162,7 @@ in GitHub by doing the following:
 A valid submission will look something like (this is just an **example**!)
 
 ```r
-https://github.com/udayamouni/RepData_PeerAssessment1
+https://github.com/udayamouni/RepData
 
 aeb6c3a3c58406ed7283caa6c889b07cf3fbf443
 ```
